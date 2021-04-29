@@ -1,0 +1,2 @@
+phaseCompressibleTurbulenceModels.C
+LIB = $(FOAM_USER_LIBBIN)/libmixtureIISRSM
